@@ -93,6 +93,13 @@
   border-color: #0077b5;
 }
 
+.douyin .actionBgPane {
+  background: #000000;
+}
+.douyin:hover {
+  border-color: #000000;
+}
+
 .github .actionBgPane {
   background: #c9510c;
 }
