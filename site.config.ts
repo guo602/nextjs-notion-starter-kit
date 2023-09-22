@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'Hambuerger',
   github: 'guo602',
-  linkedin: 'guoyang',
+  linkedin: '杨-郭-327abb142',
   douyin: 'guoyang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
