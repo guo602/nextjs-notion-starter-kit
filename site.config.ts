@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'GuoYang\'s Resume',
 
   // social usernames (optional)
-  twitter: 'Hambuerger',
+  twitter: 'Hamburger',
   github: 'guo602',
-  // linkedin: '杨-郭-327abb142',
+  linkedin: '杨-郭-327abb142',
   douyin: 'guoyang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
