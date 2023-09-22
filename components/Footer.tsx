@@ -14,7 +14,6 @@ import * as config from '@/lib/config'
 import { useDarkMode } from '@/lib/use-dark-mode'
 
 import styles from './styles.module.css'
-import { TiSocialTikTok } from 'react-icons/ti';
 
 
 // TODO: merge the data and icons from PageSocial with the social links in Footer
@@ -115,17 +114,7 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
 
-        {config.linkedin && (
-          <a
-            className={styles.linkedin}
-            href={`https://www.tiktok.com/${config.douyin}`}
-            title={`TikTok @${config.author}`}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <TiSocialTikTok />
-          </a>
-        )}
+        
 
         {config.newsletter && (
           <a
