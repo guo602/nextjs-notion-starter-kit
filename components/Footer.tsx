@@ -115,7 +115,7 @@ export const FooterImpl: React.FC = () => {
 
         {config.linkedin && (
           <a
-            className={styles.tiktok}
+            className={styles.linkedin}
             href={`https://www.tiktok.com/${config.douyin}`}
             title={`TikTok @${config.linkedin}`}
             target='_blank'
