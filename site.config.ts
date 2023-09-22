@@ -20,7 +20,8 @@ export default siteConfig({
   twitter: 'Hamburger',
   github: 'guo602',
   linkedin: '杨-郭-327abb142',
-  douyin: 'guoyang',
+  douyin: '花椒锅巴',
+  // facebook: 'GuoYang', // optional facebook profile URL
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
