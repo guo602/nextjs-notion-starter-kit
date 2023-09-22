@@ -54,7 +54,7 @@ export const FooterImpl: React.FC = () => {
       </div>
 
       <div className={styles.social}>
-        {/* {config.twitter && (
+        {config.twitter && (
           <a
             className={styles.twitter}
             href={`https://twitter.com/${config.twitter}`}
@@ -64,7 +64,7 @@ export const FooterImpl: React.FC = () => {
           >
             <FaTwitter />
           </a>
-        )} */}
+        )}
 
         {config.mastodon && (
           <a
