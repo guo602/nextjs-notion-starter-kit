@@ -14,7 +14,7 @@ import * as config from '@/lib/config'
 import { useDarkMode } from '@/lib/use-dark-mode'
 
 import styles from './styles.module.css'
-import { TiSocialTikTok } from '@react-icons/ti';
+import { TiSocialTikTok } from 'react-icons/ti';
 
 
 // TODO: merge the data and icons from PageSocial with the social links in Footer
