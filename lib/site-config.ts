@@ -16,6 +16,9 @@ export interface SiteConfig {
   newsletter?: string
   youtube?: string
   zhihu?: string
+  douyin?: string
+  bilibili?: string
+  xiaohongshu?: string
   mastodon?: string;
 
   defaultPageIcon?: string | null

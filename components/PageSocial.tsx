@@ -36,8 +36,8 @@ const socialLinks: SocialLink[] = [
     )
   },
 
-  config.github && {
-    name: 'github',
+  config.douyin && {
+    name: 'douyin',
     href: `https://www.douyin.com/user/MS4wLjABAAAA0ltt6fZCC--yDeA21kVQN6hCqO60lWuUjvzewT5DVfO3pOoWeG7izYXCQRPhCEDx`,
     title: `GitHub @${config.github}`,
     icon: (
@@ -48,7 +48,7 @@ const socialLinks: SocialLink[] = [
   },
 
   config.linkedin && {
-    name: 'douyin',
+    name: 'linkedin',
     href: `https://www.linkedin.com/in/${config.linkedin}`,
     title: `LinkedIn ${config.author}`,
     icon: (
